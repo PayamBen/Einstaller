@@ -1,0 +1,49 @@
+body {
+    background-color: #fff;
+    margin:0;
+}
+
+#header {
+    height: 150px;
+    background-color: #333;
+}
+
+#logo {
+    font-size: 70px;
+    font-family: serif;
+    color: #eee;
+    margin:auto;
+    height:100%;
+}
+
+h1 {
+    text-align: center;
+    color:#333;
+}
+
+#content{
+    
+}
+
+#footer {
+    background-color:#1199dd; 
+}
+
+#tile {
+    width: 24%;
+    text-align: center;
+    display:inline-block;
+    height: 350px;
+}
+
+.center {
+    text-align: center
+}
+
+.heading {
+    font-size: 30px;
+    margin-top: 0;
+}
+
+#listScr {
+}
